@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Albi1999
+- 👀 I’m interested in tecnology and motorsport
+- 🌱 I’m currently learning Statistic and Finance at the University of Bologna
+- 📫 How to reach me: albertocalabrese99@gmail.com
