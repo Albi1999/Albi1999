@@ -3,9 +3,9 @@
 # Hi there, I'm Alberto Calabrese 👋
 
 ## About Me
-💻 I’m interested in technology and motorsport 🏎️
-🎓 I’m a Data Science Master Degree student at the University of Padua 🏫
-🔭 I’m currently working as a Data Science Consultant at ScuolAttiva Onlus
+- 💻 I’m interested in technology and motorsport 🏎️
+- 🎓 I’m a Data Science Master Degree student at the University of Padua 🏫
+- 🔭 I’m currently working as a Data Science Consultant at ScuolAttiva Onlus
 
 </div>
 
