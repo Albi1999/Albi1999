@@ -9,6 +9,7 @@
 
 ### What do I use in my work?
 </div>
+
 <p>
   <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=plastic" height="25"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=plastic" height="25"/>
@@ -20,6 +21,7 @@
 
 ##  ✉️ Reach me here:
 </div>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-calabrese1999/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albertocalabrese99@gmail.com)
 
