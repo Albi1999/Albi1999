@@ -20,7 +20,7 @@
 </div>
 
 ##  ✉️ Reach me here:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alberto-calabrese1999)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/alberto-calabrese1999](https://www.linkedin.com/in/alberto-calabrese1999/))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albertocalabrese99@gmail.com)
 
 </div>
