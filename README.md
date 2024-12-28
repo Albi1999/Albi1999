@@ -6,7 +6,7 @@
 - 💻 I’m interested in technology and motorsport 🏎️
 - 🎓 I’m a Master's Degree student in Data Science at the University of Padua 🏫
 - 🤖 My studies focus on Machine Learning and Deep Learning applied to intelligent systems 🧠
-- 🔭 I’m currently working as a Data Science Consultant at [ScuolAttiva Onlus](https://www.scuolattiva.it/)
+- 💼 I’m currently working as a Data Science Consultant at [ScuolAttiva Onlus](https://www.scuolattiva.it/) 🔭
 
 </div>
 <h3><a href="CV.pdf">My latest CV</a>
