@@ -7,6 +7,9 @@
 - 🎓 I’m a Data Science Master Degree student at the University of Padua 🏫
 - 🔭 I’m currently working as a Data Science Consultant at ScuolAttiva Onlus
 
+</div>
+<h3><a href="CV.pdf">My latest CV</a>
+
 
 ### What do I use in my work?
 </div>
