@@ -4,14 +4,15 @@
 </div>
 
 - 💻 I’m interested in technology and motorsport 🏎️
-- 🎓 I’m a Data Science Master Degree student at the University of Padua 🏫
-- 🔭 I’m currently working as a Data Science Consultant at ScuolAttiva Onlus
+- 🎓 I’m a Master's Degree student in Data Science at the University of Padua 🏫
+- 🤖 My studies focus on Machine Learning and Deep Learning applied to intelligent systems 🧠
+- 🔭 I’m currently working as a Data Science Consultant at [ScuolAttiva Onlus](https://www.scuolattiva.it/)
 
 </div>
 <h3><a href="CV.pdf">My latest CV</a>
 
-
 ### What do I use in my work?
+
 </div>
 
 <p>
@@ -21,17 +22,13 @@
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=VisualStudioCode&logoColor=white&style=plastic" height="25"/>
 </p>
 
-
-
 ##  ✉️ Reach me here:
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-calabrese1999/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albertocalabrese99@gmail.com)
 
-
-
-## Top Languages
+## 💻 Top Languages
 </div>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Albi1999&layout=compact&theme=radical)
