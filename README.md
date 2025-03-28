@@ -42,4 +42,4 @@
 ## 💻 Top Languages
 </div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Albi1999&layout=compact&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Albi1999&layout=compact&theme=github_dark)](https://github.com/Albi1999?tab=repositories)
