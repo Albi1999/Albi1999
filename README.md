@@ -32,8 +32,13 @@
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white&style=plastic" height="25"/>
   <img alt="RStudio" src="https://img.shields.io/badge/RStudio-75AADB?style=plastic&logo=rstudioide&logoColor=white&logoSize=auto" height="25"/>
   <img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-47A141?style=plastic&logo=overleaf&logoColor=white&logoSize=auto" height="25"/>
-  <img alt="Azure" src="https://img.shields.io/badge/Azure-03A9F4?style=plastic&logo=Azure&logoColor=white&logoSize=auto" height="25"/>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white&logoSize=auto" height="25"/>
+</p>
+
+</div>
+<p>
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-03A9F4?style=plastic&logo=Azure&logoColor=white&logoSize=auto" height="25"/>
+  <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-4285F4?style=plastic&logo=googlecloud&logoColor=white&logoSize=auto" height="25"/>
 </p>
 
 </div>
