@@ -17,35 +17,35 @@
 </div>
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=plastic" height="25"/>
-  <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=plastic" height="25"/>
-  <img alt="Latex" src="https://img.shields.io/badge/Latex-008080?style=plastic&logo=latex&logoColor=white&logoSize=auto" height="25"/>
-  <img alt="json" src="https://img.shields.io/badge/json-000000?style=plastic&logo=json&logoColor=white&logoSize=auto" height="25"/>
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-fee900?style=plastic&logoColor=white" height="25"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25"/>
+  <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" height="25"/>
+  <img alt="Latex" src="https://img.shields.io/badge/Latex-008080?style=for-the-badge&logo=latex&logoColor=white&logoSize=auto" height="25"/>
+  <img alt="json" src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white&logoSize=auto" height="25"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-fee900?style=for-the-badge&logoColor=white" height="25"/>
 <p>
 
 </div>
 <p>
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS Code-007ACC?logo=VisualStudioCode&logoColor=white&style=plastic" height="25"/>
-  <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=plastic&logo=googlecolab&logoColor=white&logoSize=auto" height="25"/>
-  <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833?style=plastic&logo=anaconda&logoColor=white&logoSize=auto" height="25"/>
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white&style=plastic" height="25"/>
-  <img alt="RStudio" src="https://img.shields.io/badge/RStudio-75AADB?style=plastic&logo=rstudioide&logoColor=white&logoSize=auto" height="25"/>
-  <img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-47A141?style=plastic&logo=overleaf&logoColor=white&logoSize=auto" height="25"/>
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white&logoSize=auto" height="25"/>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS Code-007ACC?logo=VisualStudioCode&logoColor=white&style=for-the-badge" height="25"/>
+  <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&logoSize=auto" height="25"/>
+  <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white&logoSize=auto" height="25"/>
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white&style=for-the-badge" height="25"/>
+  <img alt="RStudio" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white&logoSize=auto" height="25"/>
+  <img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white&logoSize=auto" height="25"/>
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&logoSize=auto" height="25"/>
 </p>
 
 </div>
 <p>
-  <img alt="Azure" src="https://img.shields.io/badge/Azure-03A9F4?style=plastic&logo=Azure&logoColor=white&logoSize=auto" height="25"/>
-  <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-4285F4?style=plastic&logo=googlecloud&logoColor=white&logoSize=auto" height="25"/>
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-03A9F4?style=for-the-badge&logo=Azure&logoColor=white&logoSize=auto" height="25"/>
+  <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&logoSize=auto" height="25"/>
 </p>
 
 </div>
 <p>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white&logoSize=auto" height="25"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white&logoSize=auto" height="25"/>
-  <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=plastic&logo=gitlab&logoColor=white&logoSize=auto" height="25"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoSize=auto" height="25"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoSize=auto" height="25"/>
+  <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&logoSize=auto" height="25"/>
 </p>
 
 ##  ✉️ Reach me here:
