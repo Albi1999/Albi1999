@@ -18,11 +18,14 @@
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25"/>
+  <img alt="java" src="https://img.shields.io/badge/java-E05F2C?style=for-the-badge&logoColor=white&logoSize=auto" height="25"/>
   <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" height="25"/>
   <img alt="Latex" src="https://img.shields.io/badge/Latex-008080?style=for-the-badge&logo=latex&logoColor=white&logoSize=auto" height="25"/>
   <img alt="json" src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white&logoSize=auto" height="25"/>
   <img alt="SQL" src="https://img.shields.io/badge/SQL-fee900?style=for-the-badge&logoColor=white" height="25"/>
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&logoSize=auto" height="25"/>
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&logoSize=auto" height="25"/>
+
 <p>
 
 </div>
@@ -38,9 +41,9 @@
 </div>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&logoSize=auto" height="25"/>
-  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&logoSize=auto" height="25"/>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&logoSize=auto" height="25"/>
   <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android&logoColor=white&logoSize=auto" height="25"/>
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white&logoSize=auto" height="25"/>
   <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&logoSize=auto" height="25"/>
 
 </p>
