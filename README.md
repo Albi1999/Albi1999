@@ -6,7 +6,7 @@
 - 💻 I’m interested in technology and motorsport 🏎️
 - 🎓 I’m a Master's Degree student in **Data Science** at the [University of Padua](https://datascience.math.unipd.it/) 🏫
 - 🤖 My studies focus on *Machine Learning and Deep Learning* applied to intelligent systems 🧠
-- 🏢 I’m currently working as a **Generative AI Engineer** at [Gruppo Maggioli](https://www.maggioli.com/) 🤖
+- 🏢 I’m currently working as a **Generative AI Engineer** at [Gruppo Maggioli S.p.A.](https://www.maggioli.com/) 🤖
 - 💼 I’m also working as a **Data Analyst Consultant** at [ScuolAttiva Onlus](https://www.scuolattiva.it/) 📚
 
 </div>
