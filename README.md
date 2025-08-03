@@ -47,6 +47,14 @@
 
 </div>
 <p>
+  <img alt="Pytorch" src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&logoSize=auto" height="25"/>
+  <img alt="Tensorflow" src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&logoSize=auto" height="25"/>
+  <img alt="Keras" src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white&logoSize=auto" height="25"/>
+  <img alt="scikitlearn" src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&logoSize=auto" height="25"/>
+<p>
+    
+</div>
+<p>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&logoSize=auto" height="25"/>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&logoSize=auto" height="25"/>
   <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&logoSize=auto" height="25"/>
