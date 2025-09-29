@@ -70,6 +70,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&logoSize=auto" height="25"/>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&logoSize=auto" height="25"/>
   <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&logoSize=auto" height="25"/>
+  <img alt="MCP" src="https://img.shields.io/badge/MCP%20-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white&logoSize=auto" height="25"/>
 </p>
 
 </div>
