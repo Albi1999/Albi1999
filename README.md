@@ -76,7 +76,7 @@
 </div>
 <p>
   <img alt="Azure" src="https://img.shields.io/badge/Azure-03A9F4?style=for-the-badge&logo=Azure&logoColor=white&logoSize=auto" height="25"/>
-  <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&logoSize=auto" height="25"/>
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&logoSize=auto" height="25"/>
 </p>
 
 </div>
