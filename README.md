@@ -7,7 +7,6 @@
 - 🎓 I’m a Master's Degree student in **Data Science** at the [University of Padua](https://datascience.math.unipd.it/) 🏫
 - 🤖 My studies focus on *Machine Learning and Deep Learning* applied to intelligent systems 🧠
 - 🏢 I’m currently working as a **Generative AI Engineer** at [Gruppo Maggioli S.p.A.](https://www.maggioli.com/) 🤖
-- 💼 I’m also working as a **Data Analyst Consultant** at [ScuolAttiva Onlus](https://www.scuolattiva.it/) 📚
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://www.unipd.it/">
@@ -16,10 +15,8 @@
   <a href="https://www.maggioli.com/">
     <img src="Logo-gruppo-maggioli.png" alt="Sito web Gruppo Maggioli" height="70" style="flex-grow: 1; text-align: center;">
   </a>
-  <a href="https://www.scuolattiva.it/">
-    <img src="logoScuolattiva_dark.png" alt="Sito web Scuolattiva" height="70" style="flex-grow: 1; text-align: right;">
-  </a>
 </div>
+
 
 </div>
 <h3><a href="CV.pdf">My latest CV</a>
