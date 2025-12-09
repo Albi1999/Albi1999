@@ -4,19 +4,8 @@
 </div>
 
 - 💻 I’m interested in technology and motorsport 🏎️
-- 🎓 I’m a Master's Degree student in **Data Science** at the [University of Padua](https://datascience.math.unipd.it/) 🏫
-- 🤖 My studies focus on *Machine Learning and Deep Learning* applied to intelligent systems 🧠
+- 🎓 I’m graduated in **Data Science** at the [University of Padua](https://datascience.math.unipd.it/) 🏫
 - 🏢 I’m currently working as a **Generative AI Engineer** at [Gruppo Maggioli S.p.A.](https://www.maggioli.com/) 🤖
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <a href="https://www.unipd.it/">
-    <img src="logo_unipd.png" alt="Sito web Università di Padova" height="70" style="flex-grow: 1; text-align: left;">
-  </a>
-  <a href="https://www.maggioli.com/">
-    <img src="Logo-gruppo-maggioli.png" alt="Sito web Gruppo Maggioli" height="70" style="flex-grow: 1; text-align: center;">
-  </a>
-</div>
-
 
 </div>
 <h3><a href="CV.pdf">My latest CV</a>
